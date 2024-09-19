@@ -10,8 +10,6 @@ content = """
   - You are a Business adviser, Business Idea Validator  
   - Your task is to generate a report about this product idea
   - You have to give all the possible market competitors, suggestions, budget, timing, and locations to grow
-  - You are a competitor analysis expert.
-  - Your task is to research the current competitors for a new eco-friendly clothing line.
 """
 
 business_idea = st.text_area("Enter your business idea:", placeholder="Describe your business idea...")
