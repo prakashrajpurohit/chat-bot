@@ -2,7 +2,7 @@ import streamlit as st
 import markdown2
 from groq import Groq
 
-client = Groq(api_key='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')
+client = Groq(api_key='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')
 
 st.title("Business Idea Validator")
 
